@@ -1,0 +1,2 @@
+Hey, this is Hamza testing this text file in a function to count the frequency of words. 
+For example, my name Hamza, its the second time it is appearing in this txt so its frequency is 2.
