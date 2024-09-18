@@ -1,0 +1,9 @@
+2024-09-19 01:48:44 - ArithmeticApp - ERROR - Division by zero is not allowed
+2024-09-19 01:52:01 - ArithmeticApp - DEBUG - Adding 1 and 2 = 3
+2024-09-19 01:52:01 - ArithmeticApp - DEBUG - Subtracting 1 and 2 = -1
+2024-09-19 01:52:01 - ArithmeticApp - DEBUG - Multiplying 10 and 2 = 20
+2024-09-19 01:52:01 - ArithmeticApp - DEBUG - Dividing 10 and 5 = 2.0
+2024-09-19 01:52:29 - ArithmeticApp - DEBUG - Adding 1 and 2 = 3
+2024-09-19 01:52:29 - ArithmeticApp - DEBUG - Subtracting 1 and 2 = -1
+2024-09-19 01:52:29 - ArithmeticApp - DEBUG - Multiplying 10 and 2 = 20
+2024-09-19 01:52:29 - ArithmeticApp - ERROR - Division by zero is not allowed
