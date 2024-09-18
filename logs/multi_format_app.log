@@ -1,0 +1,5 @@
+2024-09-19 02:14:42,731 - multi_format_logger - DEBUG - This is a debug message
+2024-09-19 02:14:42,732 - multi_format_logger - INFO - This is an info message
+2024-09-19 02:14:42,734 - multi_format_logger - WARNING - This is a warning message
+2024-09-19 02:14:42,736 - multi_format_logger - ERROR - This is an error message
+2024-09-19 02:14:42,737 - multi_format_logger - CRITICAL - This is a critical message

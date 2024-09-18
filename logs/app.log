@@ -3,3 +3,13 @@ INFO:root:This is an info message
 WARNING:root:This is a warning message
 ERROR:root:This is an error message
 CRITICAL:root:This is a critical message
+DEBUG:root:This is a debug message
+INFO:root:This is an info message
+WARNING:root:This is a warning message
+ERROR:root:This is an error message
+CRITICAL:root:This is a critical message
+2024-09-19 02:09:14,972 - my_logger - DEBUG - This is a debug message
+2024-09-19 02:09:14,974 - my_logger - INFO - This is an info message
+2024-09-19 02:09:14,976 - my_logger - WARNING - This is a warning message
+2024-09-19 02:09:14,978 - my_logger - ERROR - This is an error message
+2024-09-19 02:09:14,979 - my_logger - CRITICAL - This is a critical message
