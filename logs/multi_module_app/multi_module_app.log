@@ -1,0 +1,8 @@
+2024-09-19 02:32:30,608 - __main__ - INFO - Main module started
+2024-09-19 02:32:30,609 - module_a - INFO - Module A function started
+2024-09-19 02:32:30,609 - module_a - DEBUG - This is a debug message from Module A
+2024-09-19 02:32:30,610 - module_a - INFO - Module A function finished
+2024-09-19 02:32:30,613 - module_b - INFO - Module B function started
+2024-09-19 02:32:30,617 - module_b - DEBUG - This is a debug message from Module B
+2024-09-19 02:32:30,618 - module_b - INFO - Module B function finished
+2024-09-19 02:32:30,618 - __main__ - INFO - Main module finished
